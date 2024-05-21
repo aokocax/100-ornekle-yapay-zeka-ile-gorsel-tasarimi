@@ -69,12 +69,47 @@ Dizin
       <li>İç mekan tasarımı (3D)</li>
       <li>Desen oluşturma</li>
       <li>Çizimden fotoğraf oluşturma</li>
-      <li>Fotoğrafları çizime dönüştür</li>
+      <li>Fotoğrafları çizime dönüştürme</li>
       <li>Çizim Kitabı oluşturma (Coloring Book)</li>
       <li>Fotoğraf düzenleme</li>
-      <li>Saç sitili değiştir</li>
-      <li>Kıyafet değiştir</li>
-      <li>Tarihi karakterleri canlandır</li>
+      <li>Saç stili değiştirme</li>
+      <li>Kıyafet değiştirme</li>
+      <li>Tarihi karakterleri canlandırma</li>
+      <li>Arkaplan temizleme</li>
+      <li>Gerçekçi fotoğraflar oluşturma</li>
+      <li>Fotoğraftaki insanların pozlarını belirleme</li>
+      <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
+      <li>Infinite loop video oluşturma</li>
+      <li>Video oluşturma</li>
+      <li>Eski çizimleri fotoğraflaştırma</li>
+      <li>Sanat stilleri ile eser oluşturma (pointilism, impasto v.s.)</li>
+      <li>Çizim kitabı oluşturma</li>
+      <li>Subliminal fotoğraf oluşturma</li>
+      <li>QR kodları ile fotoğraf oluşturma</li>
+      <li>Sad talk ile fotoğrafları konuşturma</li>
+      <li>İlüstrasyon oluşturma</li>
+      <li>İlüstrasyon görselleri vectöre dönüştürme</li>
+      <li>Kurgu karakter tasarımı</li>
+      <li>Logoları tekrar yorumlama</li>
+      <li>Lora oluşturma</li>
+      <li>Lora kullanarak harika görseller oluşturma</li>
+      <li>Midjourney ile subliminal fotoğraf oluşturma</li>
+      <li>Fotoğraflara filtre uygulama</li>
+      <li>Fotoğraf içeriğini yapay zekaya indeksletme (profesyonel)</li>
+      <li>Fotoğraf üzerindeki nesnelerin renklerini değiştirme</li>
+      <li>Elbise/kıyafet değiştirme</li>
+      <li>Kadrajı genişletme</li>
+      <li>Fotoğrafa yeni objeler ekleme</li>
+      <li>Efektli yazılar yazma</li>
+      <li>Fotoğraftaki alanlara desen uygulama</li>
+      <li>Kombinasyonla görsel oluşturma</li>
+      <li>Fotoğraflar arası geçiş bölümü oluşturma </li>
+      <li>Desenelerle (dal, taş, nokta v.b.) görsel oluşturma (Desen fotoğrafçılığı)</li>
+      <li>Yzaşlandırma/gençleştirme</li>
+      <li>Makro fotoğrafçılık</li>
+      <li>Karmaşık geometrik desen oluşturma</li>
+      <li>Çizgi film görsellerini gerçeğe dönüştürün</li>
+      <li>Gerçek görselleri karikatüre dönüştürün</li>
     </ol>
   </li>
 </ul>
