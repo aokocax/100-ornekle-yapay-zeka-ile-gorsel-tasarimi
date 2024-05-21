@@ -12,16 +12,16 @@ Dizin
     Kurulumlar ve Hesap Oluşturma
     <ul>
       <li>
-          Kurulumlar
+          <a href="/kurulumlar/kurulumlar.md">Kurulumlar</a>
           <ul>
             <li>
-              Sistem Gereksinimi
+             <a href="/kurulumlar/kurulumlar.md#sistem-gereksinimi">Sistem Gereksinimi</a>
             </li>
              <li>
-              Stable Diffusion
+                <a href="/kurulumlar/stable-diffusion.md">Stable Diffusion</a>
                <ul>
-                 <li>A1111</li>
-                 <li>ComfyUI</li>
+                 <li><a href="/kurulumlar/a1111.md">A1111</a></li>
+                 <li><a href="/kurulumlar/comfyui.md">ComfyUI</a></li>
                </ul>
              </li>
           </ul>
