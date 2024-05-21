@@ -2,7 +2,7 @@
 
 
 Üretken yapay zeka yardımıyla görsel oluştururken en büyük problemlerden biri tutarlı karakterler oluşturmaktı. Her ne kadar harika karakterler oluşturabilsekte aynı karakteri başka karelerde farklı biçimlerde kullanamıyorduk. Bir çocuk hikayesi yazdığımızı varsayarsak oluşturduğumuz karakteri futbol veya tenis oynarken ya da bir ağaca tırmanırken görselleştirmek istediğimizde karakterimiz değişiyor ve bütünlük kayboluyordu. Bu yazımızda Midjourney ve Stable Diffusion üzerinde nasıl tutarlı karakterler oluşturabileceğinizi bu bölümde anlatmaya çalışacağız.
-![Alt text](../gorseller/tutarli-all.jpeg)
+![Alt text](/gorseller/tutarli-all.jpeg)
 
 ## Midjourney
 
