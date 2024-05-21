@@ -1,9 +1,9 @@
 # 100 Örnekle Yapay Zeka ile Görsel Tasarımı
 
 # Tanıtım
-<div align="center">
+
 ![Alt text](/gorseller/100-1.png)
-</div>
+
 Görsel tasarım dünyasında bir devrim yaşanıyor ve bu devrimin arkasında üretken yapay zeka var. "100 Örnekle Yapay Zeka ile Görsel Tasarımı" kitabı, bu yeni ve heyecan verici teknolojinin sınırlarını keşfetmek isteyen tasarımcılar, sanatçılar ve meraklılar için hazırlanmış bir rehber.
 
 Kitap, yapay zeka destekli görsel tasarımın sunduğu sayısız olasılığı ve yenilikçi yöntemleri gözler önüne sermekte ve bu sayede iç/dış mekan tasarımlarından ürün tasarımına, 3D model oluşturmadan animasyon yapımına, illüstrasyon çiziminden metin efekt araçlarına kadar üretken yapay zeka ile yapılabilecek 100 kadar kreatif çalışmayı sizlere adım adım anlatmaktadır.  Ücretsiz olarak kullanabilen Stable Diffusion araçları (A1111, ComfyUI) başta olmak üzere Midjourney, Adobe Firefly, Dall-e gibi araçlardan örnekler içeren rehber, bazı konularda tüm araçlarla ilgili çalışmanın nasıl yapılabileceğini ayrı ayrı aktarmaktadır.
