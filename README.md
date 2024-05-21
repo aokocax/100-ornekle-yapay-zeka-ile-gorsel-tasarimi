@@ -2,11 +2,13 @@
 
 # Tanıtım
 
-## Not: Kitabımız şu an hazırlık aşamasındadır, haziran ayı içerisinde tamamlamayı planlıyoruz. Her türlü görüş ve önerinizi <a href="https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/issues">issues</a> bölümünden paylaşabilirsiniz.
 
 Görsel tasarım dünyasında bir devrim yaşanıyor ve bu devrimin arkasında üretken yapay zeka var. "100 Örnekle Yapay Zeka ile Görsel Tasarım" kitabı, bu yeni ve heyecan verici teknolojinin sınırlarını keşfetmek isteyen tasarımcılar, sanatçılar ve meraklılar için mükemmel bir rehber.
 
 Bu kitap, yapay zeka destekli görsel tasarımın sunduğu sayısız olasılığı ve yenilikçi yöntemleri gözler önüne seriyor. Kitap sayesinde iç/dış mekan tasarımlarından ürün tasarımına, 3D model oluşturmadan animasyon yapımına, illüstrasyon çiziminden metin efekt araçlarına kadar üretken yapay zeka ile yapılabilecek 100 kadar kreatif çalışma hakkında yetkinlik kazanacaksınız.  Ücretsiz olarak kullanabilen Stable Diffusion başta olmak üzere Midjourney, Adobe Firefly, Dall-e gibi araçlardan örnekler içeren rehber, bazı konularda tüm araçlarla ilgili çalışmanın nasıl yapılabileceğine ayrı ayr anlatmaktadır.
+
+ Not: Kitabımız şu an hazırlık aşamasındadır, haziran ayı içerisinde tamamlamayı planlıyoruz. Her türlü görüş ve önerinizi <a href="https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/issues">issues</a> bölümünden paylaşabilirsiniz.
+<hr/>
 
 Dizin
 <ul>
