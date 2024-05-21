@@ -52,7 +52,10 @@ Dizin
       <li>Faceswap</li>
       <li>Headswap</li>
       <li>Stil transferi</li>
-      <li>Tutarlı karakter</li>
+      <li><a href="ornekler/tutarli-karakterler-olusturma.md">Tutarlı karakter</a>
+        <ul><li><a href="ornekler/tutarli-karakterler-olusturma.md#midjourney">Midjourney</a></li><li><a href="ornekler/tutarli-karakterler-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
+        </ul>
+      </li>
       <li>İç mekan tasarımı (Eskiz)</li>
       <li>İç mekan tasarımı (3D)</li>
       <li>Desen oluşturma</li>
