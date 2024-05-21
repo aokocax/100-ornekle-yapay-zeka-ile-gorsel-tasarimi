@@ -110,6 +110,40 @@ Dizin
       <li>Karmaşık geometrik desen oluşturma</li>
       <li>Çizgi film görsellerini gerçeğe dönüştürün</li>
       <li>Gerçek görselleri karikatüre dönüştürün</li>
+      <li>Poster tasarımı</li>
+      <li>Promptlara ağırlık vererek görsel oluşturma</li>
+      <li>Grafiti ile metin yazımı</li>
+      <li>Fotoğrafları retro fotoğrafa dönüştürme</li>
+      <li>Eski fotoğraf düzeltme</li>
+      <li>Origami, krigami görselleri oluşturma</li>
+      <li>Ribbon, web assetleri oluşturma</li>
+      <li>Tilt shift v.b fotoğraflama </li>
+      <li>Moazik kalebodur tasarımı</li>
+      <li>Halı tasarımları yapma</li>
+      <li>Duvar görselleri tasarlama</li>
+      <li>Sticker tasarlama</li>
+      <li>Kitap, albüm kapağı tasarlama</li>
+      <li>Füturistik bina, aygıt, araç tasarımı</li>
+      <li>Stok fotoğraf tasarımı</li>
+      <li>Ürün tasarımı (şişe, tost makinesi, kalemlik)</li>
+      <li>Görselleri videoya dönüştürme</li>
+      <li>Çok hızlı görsel üretme (<1sn)</li>
+      <li>Basit deepfake</li>
+      <li>Fotoğrafları segmente etme</li>
+      <li>Kupa, tshirt tasarımı yapma</li>
+      <li>Haber görselleri tasarlama</li>
+      <li>Yeni sanatsal stiller oluşturma</li>
+      <li>Tarihi görseller oluşturma</li>
+      <li>Tarihi görselleri konuşturma</li>
+      <li>Video içindeki kişileri konuşturma</li>
+      <li>Sergi oluşturma (Futbol takımları süper kahram olma gibi)</li>
+      <li>Ultra gerçek kişi fotoğrafları oluşturma</li>
+      <li>Oyun assetleri hazırlama</li>
+      <li>Siyah beyaz fotoğraf renklendirme</li>
+      <li>Özel günler için görsel hazırlama (milli, dini bayram)</li>
+      <li>Dijtial projelerde kullanma api kullanımı</li>
+      <li>Politik karikatürler hazırlama</li>
+      <li>Minyatür tasarımı</li>
     </ol>
   </li>
 </ul>
