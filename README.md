@@ -47,7 +47,7 @@ Dizin
   </li>
   <li>100 Örnek
     <ol start="1" type="1">
-      <li>Ürün Fotoğrafçılığı</li>
+      <li><a href="/ornekler/urun-fotografciligi.md">Ürün Fotoğrafçılığı</a></li>
       <li>Fotoğraf ışıklandırma</li>
       <li>Faceswap</li>
       <li>Headswap</li>
