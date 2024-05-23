@@ -34,4 +34,4 @@ Sağdaki format alanında istediğiniz formatı seçerek, model dosyanızı bilg
 
 Oluşturduğumuz modelimizi indirmek için bu bağlantıyı kullanabilirsiniz.
 
-[text](../gorseller/model.glb)
+[.glb modeli indir](../gorseller/model.glb)
