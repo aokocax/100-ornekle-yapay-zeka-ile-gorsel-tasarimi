@@ -57,7 +57,7 @@ Dizin
       <li><a href="/ornekler/urun-fotografciligi.md">Ürün Fotoğrafçılığı</a></li>
       <li><a href="/ornekler/iki-boyutlu-gorselleri-uc-boyutluya-donusturun.md">İki boyutlu görselleri 3D'ye dönüştürme</a></li>
       <li><a href="/ornekler/gorsellerin-promptlarini-ogenin.md">Elinizdeki görsellerin promptlarını öğrenin</a></li>
-      <li>Fotoğraf ışıklandırma</li>
+      <li><a href="/ornekler/fotograf-isiklandirma.md">Fotoğraf ışıklandırma</li>
       <li><a href="/ornekler/faceswap.md">Faceswap</a></li>
       <li>Headswap</li>
       <li>Stil transferi</li>
