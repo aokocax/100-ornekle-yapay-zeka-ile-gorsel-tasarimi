@@ -1,4 +1,5 @@
 <a href="/">< Dizine dön</a> | <a href="/ornekler">< Örneklere dön</a>
+
 # Elinizdeki görsellerin hangi promptlarla oluşturulabileceğini öğrenmek ister misiniz? Bu yazı tam size göre. 
 
 ## Stable Diffusion

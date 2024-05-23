@@ -60,7 +60,7 @@ Dizin
       <li><a href="/ornekler/fotograf-isiklandirma.md">Fotoğraf ışıklandırma</li>
       <li><a href="/ornekler/faceswap.md">Faceswap</a></li>
       <li>Headswap</li>
-      <li>Stil transferi</li>
+      <li><a href="/ornekler/stil-transferi.md">Stil transferi</a></li>
       <li><a href="ornekler/tutarli-karakterler-olusturma.md">Tutarlı karakter</a>
         <ul><li><a href="ornekler/tutarli-karakterler-olusturma.md#midjourney">Midjourney</a></li><li><a href="ornekler/tutarli-karakterler-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
         </ul>
