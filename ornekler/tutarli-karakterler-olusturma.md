@@ -14,14 +14,14 @@ Yaklaşık 1.5 ay kadar önce (Mart 2024) Midjourney bizlere “—cref” param
 A young boy drawing, wears hat and t-shirt playing soccer
 Oluşturulan görsellerden beğendimiz birini U ile upscale ederek, tarayıcıda açarak dosya konumunu kopyalıyoruz.
 
-![Alt text](/gorseller/tutarli-1.png.png)
+![Alt text](/gorseller/tutarli-1.png)
 
 Daha sonra tekrar prompt yararak –cref parametresini ekliyoruz ve promptumuzu hikayemiz doğrultusunda güncelliyoruz.
 
 A young boy drawing, wears hat and t-shirt playing tennis –cref https://gorseladresi
 
 
-![Alt text](/gorseller/tutarli-2.png.png)
+![Alt text](/gorseller/tutarli-2.png)
 Farklı promptlarla hikayemizi güncelleyerek yeni görseller üretebilirsiniz.
 
 A young boy drawing, wears hat and t-shirt climbing a tree --cref
