@@ -34,10 +34,31 @@ Daha sonra Upscale'i 1 getirip Alttaki bölümden kimin yüzünü koyacaksak onu
 
 ![alt text](/gorseller/reactor-2.png)
 
+<strong>Reactor yazısının yanıdaki onay kutusunun seçili olduğuna dikkat ediniz</strong>
+
 Burada eğer kaynak görselimizde birden fazla yüz varsa yüz sırasını değiştirmek için 1,2 gibi rakamları girebilirsiniz 0,1,2 aynı anda yazarsanız 3 farklı yüz varsa hepsine yerleştirecektir
+
 ![alt text](/gorseller/reactor-5.png)
 
 Son olarak sonuç görüntümüz, burada ben kendimi yerleştirdim.
+
 ![alt text](../gorseller/reactor-6.png)
+
+
+<hr>
+txt2img bölümünde ise promptlarımızı giriyyoruz. 
+
+![alt text](/gorseller/reactor-8.png)
+
+Daha sonra aşağıdaki reactor bölümünde aynı yukardaki örnekteki gibi koymak istediğimiz yüzü seçiyoruz ve generate düğmesine basıyoruz.
+
+![alt text](/gorseller/reactor-9.png)
+
+<strong>Reactor yazısının yanıdaki onay kutusunun seçili olduğuna dikkat ediniz</strong>
+
+Görselimiz oluşturulduktan sonra reactor devreye girerek yüzü değiştirecektir.
+
+![alt text](../gorseller/reactor-10.png)
+
 
 
