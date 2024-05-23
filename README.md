@@ -58,7 +58,7 @@ Dizin
       <li><a href="/ornekler/iki-boyutlu-gorselleri-uc-boyutluya-donusturun.md">İki boyutlu görselleri 3D'ye dönüştürme</a></li>
       <li><a href="/ornekler/gorsellerin-promptlarini-ogenin.md">Elinizdeki görsellerin promptlarını öğrenin</a></li>
       <li>Fotoğraf ışıklandırma</li>
-      <li>Faceswap</li>
+      <li><a href="/ornekler/faceswap.md">Faceswap</a></li>
       <li>Headswap</li>
       <li>Stil transferi</li>
       <li><a href="ornekler/tutarli-karakterler-olusturma.md">Tutarlı karakter</a>
