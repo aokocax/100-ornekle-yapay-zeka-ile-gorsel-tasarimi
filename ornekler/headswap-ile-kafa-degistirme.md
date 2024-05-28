@@ -18,8 +18,28 @@ Kurulum tamamlandıktan sonra Installed sekmesine geri dönerek "Apply and Resta
 
 Bu işlem sonrasında txt2img, img2img ve Extras sekmelerimizde bir alt bölüm olarak Reactor alanı geliyor olacak.
 
-Şimdi ilk olarak extras bölümünde kolaylıkla herhangi bir görselde yüz değişikliği yapmayı görelim. 
+Biz faceswap'ta olduğu gibi John Wick film posterini kullanacağız.
 
-![alt text](/gorseller/reactor-7.png)
+![alt text](/gorseller/reactor-1.png)
 
-Üzerinde değişiklik yapacağımız görsel John Wick filminin görseli bunu dosya yükleme bölümünden seçiyoruz.
+İlk olarak img2img sekmesine gelip inpainting'e geçerek fotoğrafımızı yüklüyoruz ve görselimizdeki kafa alanını seçiyoruz.
+
+![alt text](/gorseller/headswap-1.png)
+
+img2img ayarlarını bu şekilde yapıyoruz.
+
+![alt text](/gorseller/headswap-2.png)
+
+Daha sonra controlnet alanına geçerek, değiştireceğimiz kişinin fotoğrafını girip ip-adapter tercihimizi görseldeki gibi yapıyoruz.
+
+![alt text](/gorseller/headswap-3.png)
+
+Son olarak tekrar reactor kullanarak faceswap için görselimizi tekrar giriyoruz.
+
+![alt text](/gorseller/headswap-4.png)
+
+Create diyerek görselimizi oluşturuyoruz, sonuç bu şekilde oluştu.
+
+![alt text](/gorseller/headswap-5.png)
+
+
