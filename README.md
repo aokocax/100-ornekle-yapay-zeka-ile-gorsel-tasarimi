@@ -66,7 +66,7 @@ Dizin
         </ul>
       </li>
       <li><a href="/ornekler/ic-mekan-tasarimi.md">İç mekan tasarımı (Eskiz)</a></li>
-      <li>İç mekan tasarımı (3D)</li>
+      <li><a href="/ornekler/uc-boyutlu-ic-mekan-tasarimi.md">İç mekan tasarımı (3D)</a></li>
       <li>Desen oluşturma</li>
       <li>Çizimden fotoğraf oluşturma</li>
       <li>Fotoğrafları çizime dönüştürme</li>
