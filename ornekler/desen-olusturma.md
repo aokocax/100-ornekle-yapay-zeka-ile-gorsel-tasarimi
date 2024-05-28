@@ -10,7 +10,10 @@ Stable Diffusion (A1111)'de tekrar eden görseller oluşturmak için ilk olarak 
 
 ![alt text](/gorseller/tiling-1.png)
 
+
 Daha sonra txt2img alanına giderek oluşturmak istediğimiz deseni prompt olarak tarif ediyoruz. Biz örneğimizde bir mermer deseni oluşturmayı deneyeceğiz.
+
+`rose picture, turkish style, vector, illustration`
 
 ![alt text](/gorseller/desen-1.png)
 
