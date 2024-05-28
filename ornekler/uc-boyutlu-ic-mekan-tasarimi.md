@@ -38,5 +38,5 @@ Sonuçlarımız bu şekilde oldu.
 
 ![alt text](../gorseller/3d-toruma-2.png)
 
-Görselinizdeki herhangi bir alanı değiştirmek isterseniz bu yazımızın son kısmına bakabilirsiniz.[text](ic-mekan-tasarimi.md)
+Görselinizdeki herhangi bir alanı değiştirmek isterseniz bu yazımızın son kısmına bakabilirsiniz. [iç mekan tasarımı](ic-mekan-tasarimi.md)
 

@@ -67,7 +67,10 @@ Dizin
       </li>
       <li><a href="/ornekler/ic-mekan-tasarimi.md">İç mekan tasarımı (Eskiz)</a></li>
       <li><a href="/ornekler/uc-boyutlu-ic-mekan-tasarimi.md">İç mekan tasarımı (3D)</a></li>
-      <li>Desen oluşturma</li>
+      <li><a href="/ornekler/desen-olusturma.md">Desen oluşturma</a>
+       <ul><li><a href="/ornekler/desen-olusturma.md#midjourney">Midjourney</a></li><li><a href="/ornekler/desen-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
+        </ul>
+      </li>
       <li>Çizimden fotoğraf oluşturma</li>
       <li>Fotoğrafları çizime dönüştürme</li>
       <li>Çizim Kitabı oluşturma (Coloring Book)</li>
