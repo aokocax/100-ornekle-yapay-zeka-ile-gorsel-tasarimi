@@ -59,7 +59,7 @@ Dizin
       <li><a href="/ornekler/gorsellerin-promptlarini-ogrenin.md">Elinizdeki görsellerin promptlarını öğrenin</a></li>
       <li><a href="/ornekler/fotograf-isiklandirma.md">Fotoğraf ışıklandırma</li>
       <li><a href="/ornekler/faceswap.md">Faceswap</a></li>
-      <li>Headswap</li>
+      <li><a href="/ornekler/headswap-ile-kafa-degistirme.md">Headswap</a></li>
       <li><a href="/ornekler/stil-transferi.md">Stil transferi</a></li>
       <li><a href="ornekler/tutarli-karakterler-olusturma.md">Tutarlı karakter</a>
         <ul><li><a href="ornekler/tutarli-karakterler-olusturma.md#midjourney">Midjourney</a></li><li><a href="ornekler/tutarli-karakterler-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
@@ -73,7 +73,7 @@ Dizin
       </li>
       <li><a href="/ornekler/cizimden-fotograf-olusturma.md">Çizimden fotoğraf oluşturma</a></li>
       <li><a href="/ornekler/fotograflari-cizime-donusturme.md">Fotoğrafları çizime dönüştürme</a></li>
-      <li>Çizim kitabı oluşturma (Coloring Book)</li>
+      <li><a href="/ornekler/boyama-kitabi-gorseli-olusturma.md">Boyama kitabı oluşturma (Coloring Book)</a></li>
       <li>Fotoğraf düzenleme</li>
       <li>Saç stili değiştirme</li>
       <li>Kıyafet değiştirme</li>

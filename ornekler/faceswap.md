@@ -29,7 +29,6 @@ Bu işlem sonrasında txt2img, img2img ve Extras sekmelerimizde bir alt bölüm 
 ![alt text](/gorseller/reactor-1.jpg)
 
 
-
 Daha sonra Upscale'i 1 getirip Alttaki bölümden kimin yüzünü koyacaksak onu seçiyoruz. Diğer ayarlara dokunmuyoruz.
 
 ![alt text](/gorseller/reactor-2.png)
