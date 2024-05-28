@@ -65,6 +65,7 @@ Dizin
         <ul><li><a href="ornekler/tutarli-karakterler-olusturma.md#midjourney">Midjourney</a></li><li><a href="ornekler/tutarli-karakterler-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
         </ul>
       </li>
+      <li>Çoklu poz karakter üretimi (Oyun, Senaryo)</li>
       <li>İç mekan tasarımı (Eskiz)</li>
       <li>İç mekan tasarımı (3D)</li>
       <li>Desen oluşturma</li>
