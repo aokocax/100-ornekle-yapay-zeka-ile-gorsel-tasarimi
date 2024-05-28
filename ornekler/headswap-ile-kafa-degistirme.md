@@ -42,4 +42,7 @@ Create diyerek görselimizi oluşturuyoruz, sonuç bu şekilde oluştu.
 
 ![alt text](/gorseller/headswap-5.png)
 
+Denoising değerini düşürüp seçim alanını büyüterek ve daha fazla prompt girerek ilgili görsele daha iyi yedirilmiş sonuçlara ulaşabilirsiniz.
+
+
 
