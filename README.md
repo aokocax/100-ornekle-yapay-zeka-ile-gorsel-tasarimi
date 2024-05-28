@@ -71,9 +71,9 @@ Dizin
        <ul><li><a href="/ornekler/desen-olusturma.md#midjourney">Midjourney</a></li><li><a href="/ornekler/desen-olusturma.md#stable-diffusion">Stable Diffusion</a></li>
         </ul>
       </li>
-      <li>Çizimden fotoğraf oluşturma</li>
-      <li>Fotoğrafları çizime dönüştürme</li>
-      <li>Çizim Kitabı oluşturma (Coloring Book)</li>
+      <li><a href="/ornekler/cizimden-fotograf-olusturma.md">Çizimden fotoğraf oluşturma</a></li>
+      <li><a href="/ornekler/fotograflari-cizime-donusturme.md">Fotoğrafları çizime dönüştürme</a></li>
+      <li>Çizim kitabı oluşturma (Coloring Book)</li>
       <li>Fotoğraf düzenleme</li>
       <li>Saç stili değiştirme</li>
       <li>Kıyafet değiştirme</li>
