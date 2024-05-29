@@ -48,7 +48,8 @@ Görselimiz bu şekilde oluşturuldu.
 
 Oluşturduğumuz görsellerden herhangi birini tripo3d.ai üzerinden bu [bu dersimizdeki](iki-boyutlu-gorselleri-uc-boyutluya-donusturun.md) gibi 3D hale dönüştürebilirsiniz. 
 
-<video controls src="../gorseller/19-48-01.mp4" title="Title"></video>
+[Video](gorseller/19-48-01.mp4)
+
 
 
 
