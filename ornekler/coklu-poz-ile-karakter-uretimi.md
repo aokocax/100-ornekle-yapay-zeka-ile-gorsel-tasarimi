@@ -23,7 +23,7 @@ Yüzünü benzetmek için ise IpAdapter FaceID Plus2 modelini kullandık https:/
 
 ComfyUI dizininde models\ipadapter dizinine yüklenmeli
 
-Workflow'umuzu çalıştırmadan önce insightface yüklemeniz gerekebilir. Eğer insightface ile ilgili bir hata alırsanız, ComfyUI'yı çalıştdığınız ekranda 
+Workflow'umuzu çalıştırmadan önce insightface yüklemeniz gerekebilir. Eğer insightface ile ilgili bir hata alırsanız, ComfyUI'yı çalıştdığınız terminal ekranında 
 
 `pip install insgihtface` komutu ile bunu gerçekleştirebilirsiniz. 
 
