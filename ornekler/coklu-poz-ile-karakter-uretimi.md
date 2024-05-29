@@ -7,7 +7,7 @@
 Dersimiz diğer derslere nazaran biraz daha zor ancak bir kez oluşturduktan sonra workflow'u kaydederek kolaylıkla karakterler üretebilirsiniz.
 Yazımızda ComfyUI kullanacağız ama benzer bir yöntemle A1111 ile de çoklu poz üretebilirsiniz. ComfyUI kurulumu için [bu dersimize](../kurulumlar/comfyui.md) bakabilirsiniz.
 
-ComyfyUI uygulamamızı çalışdırtıktan sonra bu workflow'u yüklüyoruz (sürükle bırakla ekrana bırakabilirsiniz.)
+ComyfyUI uygulamamızı çalışdırtıktan sonra [bu workflow](../gorseller/workflow/consistent_character_comfyui.json)'u yüklüyoruz (sürükle bırakla ekrana bırakabilirsiniz.)
 
 Dersimizin kaynak alındığı makale için [bu adrese ](https://stable-diffusion-art.com/consistent-character-view-angle/#Extensions)bakabilirsiniz.
 
