@@ -74,6 +74,7 @@ Dizin
       <li><a href="/ornekler/cizimden-fotograf-olusturma.md">Çizimden fotoğraf oluşturma</a></li>
       <li><a href="/ornekler/fotograflari-cizime-donusturme.md">Fotoğrafları çizime dönüştürme</a></li>
       <li><a href="/ornekler/boyama-kitabi-gorseli-olusturma.md">Boyama kitabı oluşturma (Coloring Book)</a></li>
+       <li><a href="ornekler/coklu-poz-ile-karakter-uretimi.md">Çoklu poz ile karakter üretimi (Oyun, Senaryo)</a></li>
       <li>Fotoğraf düzenleme</li>
       <li>Saç stili değiştirme</li>
       <li>Kıyafet değiştirme</li>
@@ -147,7 +148,7 @@ Dizin
       <li>Dijtial projelerde kullanma api kullanımı</li>
       <li>Politik karikatürler hazırlama</li>
       <li>Minyatür tasarımı</li>
-      <li>Çoklu poz karakter üretimi (Oyun, Senaryo)</li>
+     
     </ol>
   </li>
 </ul>
