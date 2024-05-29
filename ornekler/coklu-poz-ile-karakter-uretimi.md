@@ -16,9 +16,11 @@ Daha sonra ComfyUI manager'dan "Install Missing Nodes" diyerek gerekli node'lar�
 Model olarak ProtoVisionXL modelini kullandık https://civitai.com/models/125703/protovision-xl-high-fidelity-3d-photorealism-anime-hyperrealism-no-refiner-needed
 
 Kişi detaylarını çıkarmak için Controlnet Canny modelini https://huggingface.co/lllyasviel/sd_control_collection/blob/main/diffusers_xl_canny_mid.safetensors
+
 ComfyUI dizininde models\controlnet dizinine yüklenmeli
 
 Yüzünü benzetmek için ise IpAdapter FaceID Plus2 modelini kullandık https://huggingface.co/h94/IP-Adapter-FaceID/blob/main/ip-adapter-faceid-plusv2_sdxl.bin
+
 ComfyUI dizininde models\ipadapter dizinine yüklenmeli
 
 Workflow'umuzu çalıştırmadan önce insightface yüklemeniz gerekebilir. Eğer insightface ile ilgili bir hata alırsanız, ComfyUI'yı çalıştdığınız ekranda 
