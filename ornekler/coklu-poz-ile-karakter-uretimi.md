@@ -29,7 +29,7 @@ Windows üzerinde ayrıca C++ VS build tool'su da yüklemeniz gerekebilir.  http
 
 Bu noktada kurulum yapılerken detaylara girerek Windows 10 SDK ve Build Tools V142'nin için seçim yapıldığından emin olunuz.
 
-Workflow'umuzda controlnet alanımıza ![bu adreste](../gorseller/character_sheet_3x3b.webp) bulabileceğiniz görselimizi ekliyoruz.
+Workflow'umuzda controlnet alanımıza [bu adreste](../gorseller/character_sheet_3x3b.webp) bulabileceğiniz görselimizi ekliyoruz.
 
 ![alt text](/gorseller/coklu-poz-controlnet.png)
 
