@@ -24,7 +24,7 @@ Düzenleme yapmak için pixabay sitesinden [bu modeli](https://pixabay.com/photo
 
 2) Sadece seçtiğim alanda değişiklik yap!
 
-[alt text](../gorseller/kiyafet-3.jpg)
+![alt text](../gorseller/kiyafet-3.jpg)
 
 Son olarak promptumuzda hangi kıyafeti görmek istiyorsak onu giriyoruz.
 
