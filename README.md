@@ -74,10 +74,10 @@ Dizin
       <li><a href="/ornekler/cizimden-fotograf-olusturma.md">Çizimden fotoğraf oluşturma</a></li>
       <li><a href="/ornekler/fotograflari-cizime-donusturme.md">Fotoğrafları çizime dönüştürme</a></li>
       <li><a href="/ornekler/boyama-kitabi-gorseli-olusturma.md">Boyama kitabı oluşturma (Coloring Book)</a></li>
-       <li><a href="ornekler/coklu-poz-ile-karakter-uretimi.md">Çoklu poz ile karakter üretimi (Oyun, Senaryo)</a></li>
-      <li>Fotoğraf düzenleme</li>
-      <li>Saç stili değiştirme</li>
-      <li>Kıyafet değiştirme</li>
+      <li><a href="ornekler/coklu-poz-ile-karakter-uretimi.md">Çoklu poz ile karakter üretimi (Oyun, Senaryo)</a></li>
+      <li><a href="ornekler/kiyafet-degistirme.md">Kıyafet değiştirme</a></li>
+      <li><a href="ornekler/sac-stili-degistirme.md">Saç stili değiştirme</a></li>
+         <li>Fotoğraf düzenleme</li>
       <li>Tarihi karakterleri canlandırma</li>
       <li>Arkaplan temizleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
