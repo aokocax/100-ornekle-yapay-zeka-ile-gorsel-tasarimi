@@ -18,7 +18,7 @@ Ekran görüntüsü bu şekilde.
 
 Daha sonra prompt alanına gerek basitçe promptlarımızı giriyoruz.
 
-`comic cartoon,drawing`
+`cartoon drawing of a man, happy, comic`
 
 ![alt text](../gorseller/karikatur-2.png)
 
