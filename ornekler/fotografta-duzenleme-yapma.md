@@ -35,16 +35,24 @@ Görselinizde göre denoising ayarınızla oynayarak daha iyi sonuçlar elde ede
 
 ![alt text](../gorseller/fotograf-duzenleme-sonuc-1.png)
 
+
 # Photoshop üzerine değişiklik
 
-Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Görselimizi lasso tool aracılığıyla seçtikten sonra generative fill alanına "remove object" promptunu yazarak Generate düğmesine bazıyoruz.
+Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Bu noktada daha iyi sonuç almak adına öncelikle nesneyi görselimizden çıkarıyor ve sonrasında istediğimiz yeni nesneyi ekliyoruz.
+
+Görselimizde dilediğimiz alanı lasso tool aracılığıyla seçtikten sonra generative fill alanına "a cup of coffee with shadow" promptunu yazarak Generate düğmesine bazıyoruz.
 
 
-![alt text](../gorseller/fotograf-duzenleme-4.png)
+![alt text](/gorseller/fotofraf-duzenleme-yapma-2.png)
 
 Sonucumuz bu şekilde oluştu.
 
-![alt text](../gorseller/fotograf-duzenleme-sonuc.png)
+![alt text](../gorseller/fotograf-duzenleme-sonuc-2.png)
+
+
+
+
+
 
 
 

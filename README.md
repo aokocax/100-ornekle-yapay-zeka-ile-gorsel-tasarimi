@@ -79,6 +79,7 @@ Dizin
       <li><a href="ornekler/sac-stili-degistirme.md">Saç stili değiştirme</a></li>
       <li><a href="ornekler/karikature-donusturme.md">Gerçek görselleri karikatüre dönüştürün</a></li>
       <li><a href="/ornekler/fotograf-nesne-cikarma.md">Fotoğraftan nesne çıkarma</a></li>
+        <li><a href="/ornekler/fotografta-duzenleme-yapma.md">Fotoğrafta düzenleme yapma</a></li>
       <li>Tarihi karakterleri canlandırma</li>
       <li>Arkaplan temizleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>

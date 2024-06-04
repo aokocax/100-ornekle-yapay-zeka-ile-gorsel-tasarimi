@@ -21,7 +21,7 @@ Aynı fotoğraf üzerinde düzenleme yapmak isterseniz [buradan](https://pixabay
 
 `clean table` yazıyoruz.
 
-Dilerseniz ilgili alanı daha büyük seçerek diğer ışık ve yansıma alanlarını da dahil edebilirsiniz.
+Dilerseniz ilgili alana daha büyük seçerek diğer ışık ve yansıma alanlarını da dahil edebilirsiniz.
 
 ![alt text](/gorseller/fotograf-nesne-cikarma-2.png)
 
@@ -33,18 +33,16 @@ Görselinizde göre denoising ayarınızla oynayarak daha iyi sonuçlar elde ede
 
 ![alt text](../gorseller/fotograf-nesne-cikarma-sonuc-1.png)
 
-# Photoshop üzerine değişiklik
+# Photoshop'ta fotoğraftan nesne çıkarma
 
-Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Bu noktada daha iyi sonuç almak adına öncelikle nesneyi görselimizden çıkarıyor ve sonrasında istediğimiz yeni nesneyi ekliyoruz.
-
-Görselimizde dilediğimiz alanı lasso tool aracılığıyla seçtikten sonra generative fill alanına "a cup of coffee with shadow" promptunu yazarak Generate düğmesine bazıyoruz.
+Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Görselimizi lassa tool aracılığıyla seçtikten sonra generative fill alanına "remove object" promptunu yazarak Generate düğmesine bazıyoruz.
 
 
-![alt text](/gorseller/fotofraf-duzenleme-yapma-2.png)
+![alt text](../gorseller/fotograf-nesne-cikarma-4.png)
 
 Sonucumuz bu şekilde oluştu.
 
-![alt text](../gorseller/fotograf-duzenleme-sonuc-2.png)
+![alt text](../gorseller/fotograf-nesne-cikarma-sonuc-2.png)
 
 
 
