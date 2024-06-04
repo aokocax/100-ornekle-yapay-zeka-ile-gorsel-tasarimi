@@ -2,7 +2,7 @@
 
 # Yapay zeka ile fotoğraflar üzerinde düzenleme yapma
 
-Bir önceki örneğimizde fotoğraftan istemediğimiz bir nesneyi kaldırmıştık. Bu örneğimizde ise var olan bir nesneyi başka bir nesne ile değiştireceğiz.
+[Bir önceki örneğimizde](https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/blob/main/ornekler/fotograf-nesne-cikarma.md) fotoğraftan istemediğimiz bir nesneyi kaldırmıştık. Bu örneğimizde ise var olan bir nesneyi başka bir nesne ile değiştireceğiz.
 
 # Stable Diffusion ile fotoğrafta düzenleme yapma (A1111)
 
@@ -16,18 +16,20 @@ Biz örneğimizde [Juggernaut XL Inpainting ](https://civitai.com/models/403361/
 
 Aynı fotoğraf üzerinde düzenleme yapmak isterseniz [buradan](https://pixabay.com/photos/apple-computer-browser-business-2568755/) indirebilirsiniz.
 
-İlk olarak görselimizdeki koku şişesini masamızdan kaldıracağız. Bunun için ilgi görseli fırçamızla seçiyoruz ve daha sonra prompt alanına 
+İlk olarak görselimizdeki koku şişesini masamızdan kaldıracağız. 
 
+![alt text](/gorseller/fotograf-nesne-cikarma-2.png)
+
+Bunun için ilgi görseli fırçamızla seçiyoruz ve daha sonra prompt alanına 
 
 `a cup of coffee` yazıyoruz.
 
 Dilerseniz ilgili alana daha büyük seçerek diğer ışık ve yansıma alanlarını da dahil edebilirsiniz.
 
-![alt text](/gorseller/fotograf-nesne-cikarma-2.png)
 
 Varsayılan ayarlarda sadece Inpaint Area kısmını, "Only Masked" olarak değiştiriyor ve görselimizin ölçülerini almak için gönye ikonuna basıyoruz.
 
-![alt text](/gorseller/fotofraf-duzenleme-yapma-1.png)
+![alt text](/gorseller/fotograf-duzenleme-yapma-1.png)
 
 Generate düğmesine basarak görselimizi oluşturuyoruz
 
@@ -43,7 +45,7 @@ Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Bu noktada da
 Görselimizde dilediğimiz alanı lasso tool aracılığıyla seçtikten sonra generative fill alanına "a cup of coffee with shadow" promptunu yazarak Generate düğmesine bazıyoruz.
 
 
-![alt text](/gorseller/fotofraf-duzenleme-yapma-2.png)
+![alt text](/gorseller/fotograf-duzenleme-yapma-2.png)
 
 Sonucumuz bu şekilde oluştu.
 

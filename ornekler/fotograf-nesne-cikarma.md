@@ -42,7 +42,7 @@ Benzer değişikliği yapmak ise Photoshop'ta nispeten daha kolay. Görselimizi 
 
 Sonucumuz bu şekilde oluştu.
 
-![alt text](../gorseller/fotograf-nesne-cikarma-sonuc-2.png)
+![alt text](../gorseller/fotograf-nesne-cikarma-sonuc-2.jpg)
 
 
 
