@@ -80,7 +80,8 @@ Dizin
       <li><a href="ornekler/karikature-donusturme.md">Gerçek görselleri karikatüre dönüştürün</a></li>
       <li><a href="/ornekler/fotograf-nesne-cikarma.md">Fotoğraftan nesne çıkarma</a></li>
       <li><a href="/ornekler/fotografta-duzenleme-yapma.md">Fotoğrafta düzenleme yapma</a></li>
-      <li>Tarihi karakterleri canlandırma</li>
+      <li><a href="/ornekler/ultra-gercekci-insan-fotograflari-olusturma.md">Ultra gerçek kişi fotoğrafları oluşturma</a></li>
+      <li><a href="/ornekler/tarihi-karakter-cizimlerini-fotografa-donusturme.md">Tarihi karakter resimlerini fotoğrafa dönüştürme</a></li>
       <li>Arkaplan temizleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
@@ -142,14 +143,13 @@ Dizin
       <li>Tarihi görselleri konuşturma</li>
       <li>Video içindeki kişileri konuşturma</li>
       <li>Sergi oluşturma (Futbol takımları süper kahram olma gibi)</li>
-      <li>Ultra gerçek kişi fotoğrafları oluşturma</li>
+  
       <li>Oyun assetleri hazırlama</li>
       <li>Siyah beyaz fotoğraf renklendirme</li>
       <li>Özel günler için görsel hazırlama (milli, dini bayram)</li>
       <li>Dijtial projelerde kullanma api kullanımı</li>
       <li>Politik karikatürler hazırlama</li>
       <li>Minyatür tasarımı</li>
-     
     </ol>
   </li>
 </ul>
