@@ -61,7 +61,7 @@ Midjourney için gerekli promptları paylaşıyoruz, şu an için en güncel ver
 
 `Design a lifelike portrayal of a turkish old woman with ethnic clothes, showcasing her joyous spirit. with the vibrant yellow blooms complementing her positive energy. --ar 9:16 --stylize 250 --style raw --v 6.0`
 
-![alt text](../gorseller/ultra-realist-4.webp)
+![alt text](../gorseller/ultra-realist-4.png)
 
 
 
