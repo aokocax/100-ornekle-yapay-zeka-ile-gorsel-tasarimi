@@ -1,0 +1,177 @@
+{
+  "last_node_id": 3,
+  "last_link_id": 2,
+  "nodes": [
+    {
+      "id": 3,
+      "type": "PreviewImage",
+      "pos": [
+        1152,
+        138
+      ],
+      "size": [
+        210,
+        246
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 2
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      }
+    },
+    {
+      "id": 2,
+      "type": "SUPIR_Upscale",
+      "pos": [
+        685,
+        83
+      ],
+      "size": [
+        400,
+        778
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 1
+        },
+        {
+          "name": "captions",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "captions"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "name": "upscaled_image",
+          "type": "IMAGE",
+          "links": [
+            2
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SUPIR_Upscale"
+      },
+      "widgets_values": [
+        "SUPIR-v0Q.ckpt",
+        "epicrealismXL_v7FinalDestination.safetensors",
+        613567424816087,
+        "randomize",
+        "lanczos",
+        2,
+        45,
+        -1,
+        4,
+        "high quality, detailed",
+        "bad quality, blurry, messy",
+        5,
+        1.003,
+        1,
+        4,
+        0,
+        "Wavelet",
+        true,
+        true,
+        512,
+        64,
+        "",
+        "auto",
+        "auto",
+        1,
+        false,
+        1024,
+        512,
+        false,
+        false,
+        "RestoreEDMSampler"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": [
+        249,
+        128
+      ],
+      "size": [
+        315,
+        314
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "shape": 3
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "IPAdapter_00024_ (4).png",
+        "image"
+      ]
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "IMAGE"
+    ],
+    [
+      2,
+      2,
+      0,
+      3,
+      0,
+      "IMAGE"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.8264462809917354,
+      "offset": [
+        183.49689999999987,
+        72.37130000000002
+      ]
+    }
+  },
+  "version": 0.4
+}

@@ -1,5 +1,6 @@
 <a href="/">< Dizine dön</a> | <a href="/ornekler">< Örneklere dön</a>
 
+# Yapay zeka ile fotoğraf büyütme (upscale)
 Yapay zekanın en başarılı olduğu konulardan biri de ister yapay zeka ile üretilsin isterse gerçek bir fotoğraf olsun büyütme yapabilme. Kitabımızda basit ve pro (supir) olmak üzere iki farklı metod üzerinden yapay zeka ile fotoğraflarınızı nasıl büyüteceğinizi (upscale) anlatacağız. Örneklerimizde Stable Diffusion kullanacağız (ComfyUI ve A1111). Basit yöntem ile başlıyoruz;
 
 İlk olarak basit yöntemimizde kullandığımız upscale modelimiz (Ultrasharp4+) [bu adresten](https://huggingface.co/lokCX/4x-Ultrasharp/blob/main/4x-UltraSharp.pth) indirerek
@@ -37,6 +38,6 @@ A1111 webui'da büyütme için Extras sekmesine geçiyoruz ve Upscaler 1 alanın
 
 Resim yükleme alanından görselimizi seçtikten sonra alt bölümdeki "Scale by" seçeneği ile kaç kat "scale to" seçeneği ile de hangi çözünürlüğe (pixel olarak) büyüteceğinizi belirleyebilirsiniz.
 
-![alt text](../gorseller/buyutme-3.png)
+![alt text](../gorseller/buyutme-4.png)
 
 Daha sonra "Generate" düğmesiyle işleminizi başlatabilirsiniz.
