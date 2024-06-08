@@ -16,10 +16,13 @@ Gerçekçi görseller için Stable Diffusion tarafında bir çok model olmakla b
 <hr>
 
 1) Epic Realism kullanarak ilk örneğimizi oluşturalım;
+
 Promptlar;
+
 `(Soft Lighting Photography), Mirror selfie , a 40 year old gorgeous man with beard, slight smile , detailed skin face and eyes , natural lighting , at home , long hair, messy hair, cleavage, film grain, low contrast, natural face, dark blonde hair , dark blue eyes, dark circles under eyes` 
 
-Negatif promptlarımız
+Negatif promptlarımız;
+
 `worst quality, extra fingers, missing fingers, poorly rendered hands, mutation, deformed iris, deformed pupils, deformed limbs, missing limbs, amputee, amputated limbs, watermark, logo , text, piercing, big eyes , teeth, cartoon, shallow depth of field, makeup` 
 
 

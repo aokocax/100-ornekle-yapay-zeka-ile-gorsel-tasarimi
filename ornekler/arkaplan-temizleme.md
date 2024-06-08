@@ -2,11 +2,10 @@
 
 Bu örneğimizde yapay zeka ile herhangi bir görselin arkaplanını ücretsiz olarak temizlemeyi göreceğiz. 
 
-Örneğimizde ComfyUI kullandık, ilk olarak ComfyUI uygulamızı açarak Manager'ı açıyoruz ve "Install Custom Node" diyerek arama kısmına "Rembg" yazıyoruz.
+Örneğimizde ComfyUI kullandık, ilk olarak ComfyUI uygulamızı açarak Manager'ı açıyoruz ve "Install Custom Node" diyerek arama kısmına "essentials" yazıyoruz.
 
 
-
-Listelenen node'lardan Jcd1230 adlı kullanıcıya ait kütüphaneyi "install" diyerek kuruyoruz ve ComfyUI uygulamamızı çalıştırıyoruz.
+Listelenen node'lardan cbuiq adlı kullanıcıya ait kütüphaneyi "install" diyerek kuruyoruz ve ComfyUI uygulamamızı yeniden başlatıyoruz.
 
 ![alt text](/gorseller/remove-bg-1.png)
 
@@ -19,5 +18,7 @@ Son olarak "Load Image" node'una arkaplanını temizlemek istediğimiz görselim
 Sonuç bu şekilde oluştu;
 
 ![alt text](../gorseller/rembg-sonuc-1.png)
+
+RemBG Session bölümünde listelenen modelleri değiştirerek farklı obje/nesnelerde daha iyi sonuçlar alabilirsiniz.
 
 

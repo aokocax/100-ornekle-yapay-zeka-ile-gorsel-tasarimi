@@ -83,6 +83,8 @@ Dizin
       <li><a href="/ornekler/ultra-gercekci-insan-fotograflari-olusturma.md">Ultra gerçek kişi fotoğrafları oluşturma</a></li>
       <li><a href="/ornekler/tarihi-karakter-cizimlerini-fotografa-donusturme.md">Tarihi karakter resimlerini fotoğrafa dönüştürme</a></li>
       <li><a href="/ornekler/arkaplan-temizleme.md">Arkaplan temizleme</a></li>
+      <li><a href="/ornekler/fotograf-buyutme-basit.md">Fotoğraf Büyütme (Basit)</a></li>
+      <li><a href="/ornekler/fotograf-buyutme-supir.md">Fotoğraf Büyütme (SUPIR)</a></li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
