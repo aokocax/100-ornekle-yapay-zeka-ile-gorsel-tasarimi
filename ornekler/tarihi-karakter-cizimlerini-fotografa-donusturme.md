@@ -16,6 +16,7 @@ Bu adresten modelimizi indirebilirsiniz https://civitai.com/models/277058/epicre
 models\ipadapter dizinine bu iki dosyayı yükleyiniz
 
 https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.safetensors
+
 https://huggingface.co/h94/IP-Adapter-FaceID/blob/main/ip-adapter-faceid-portrait_sdxl.bin
 
 3) Clip Vision
@@ -38,6 +39,8 @@ Negatif promptlarımız
 `(slick mustache) worst quality, extra fingers, missing fingers, poorly rendered hands, mutation, deformed iris, deformed pupils, deformed limbs, missing limbs, amputee, amputated limbs, watermark, logo , text, piercing, big eyes , teeth, cartoon, shallow depth of field, makeup`
 
 "IpAdapter Advanced" nodundaki weight, weight_type ce combine_embed seçeneklerini değiştirerek daha farklı sonuçlar elde edebilirsiniz.
+
+Weight ayarı ile oynarak daha gerçekçi görseller oluşturabilir, [bu dersimizdeki](https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/blob/main/ornekler/fotograf-buyutme-supir.md) yöntemi kullanarak daha gerçekçi ve daha yüksek kaliteli görseller üretebilirsiniz.
 
 Sonuç görsellerimizin bir kısmını paylaşıyoruz. 
 
