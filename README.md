@@ -103,8 +103,6 @@ Dizin
       <li>Subliminal fotoğraf oluşturma</li>
       <li>QR kodları ile fotoğraf oluşturma</li>
       <li>Sad talk ile fotoğrafları konuşturma</li>
-      <li>İlüstrasyon oluşturma</li>
-      <li>İlüstrasyon görselleri vectöre dönüştürme</li>
       <li>Kurgu karakter tasarımı</li>
       <li>Logoları tekrar yorumlama</li>
       <li>Lora oluşturma</li>
