@@ -18,15 +18,15 @@ Workflowumuz ise bu şekilde, [buradan](../gorseller/workflow/upscale-supir.json
 
 Öncelikle supir model alanında indirdiğimiz modelin seçili olduğuna dikkat edelim. Supir sadece XL modellerle çalışmakta, dolayısıyla sdxl_model alanında bir XL modelini seçiyoruz.
 Daha sonra scale_by seçeği ile kaç kat büyüteceğimizi belirtiyoruz. Başka bir ayarı şu aşamada değiştirmemize gerek yok. "Queue" prompt diyerek görselimizi büyütüyoruz.
-Not: ekran kartınızın kapasitesine göre bu işlem 1-10 dakika arasında alabilir.
+Not: ekran kartınızın kapasitesine göre bu işlem 1-10 dakika arasında alabilir. Ayrıca A1111 üzerinde yaptığımız başka bir fotoğraf detaylandırma çalışması için bu videoyu izleyebilirsiniz https://sanat.ai/dersler/yapay-zeka-ile-g-rsellere-detay-ekleme
 
 Sonuçlar bizde bu şekilde oluştu;
 
-Kaynak görselimiz;
+Kaynak görselimiz:
 
 ![alt text](../gorseller/buyutme_kaynak.png)
 
-Sonuç görselimiz;
+Sonuç görselimiz:
 
 ![alt text](../gorseller/buyutme-sonuc-2.png)
 
