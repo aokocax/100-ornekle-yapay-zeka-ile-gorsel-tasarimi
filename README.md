@@ -86,6 +86,7 @@ Dizin
       <li><a href="/ornekler/fotograf-buyutme-basit.md">Fotoğraf Büyütme (Basit)</a></li>
       <li><a href="/ornekler/fotograf-buyutme-supir.md">Fotoğraf Büyütme (SUPIR)</a></li>
       <li><a href="/ornekler/karikatur-hazirlama.md">Karikatür Hazırlama</a></li>
+      <li><a href="/ornekler/desen-kullanarak-fotograf-olusturma.md">Desen kullanarak fotoğraf oluşturma</a></li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
