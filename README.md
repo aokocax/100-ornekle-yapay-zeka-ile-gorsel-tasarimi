@@ -90,10 +90,10 @@ Dizin
       <li><a href="/ornekler/qr-kodu-ile-fotograf-olusturma.md">QR kodu ile fotoğraf oluşturma</a></li>
       <li><a href="/ornekler/ilustrasyon-olusturma.md">İlüstrasyon oluşturma</a></li>
       <li><a href="/ornekler/ilustrasyonu-vektore-donusturme.md">İlüstrasyonları vektöre dönüştürme</a></li>
-      <li><a hred="/ornekler/fotograflara-filtre-uygulama.md">Fotoğraflara filtre uygulama</a></li>
-      <li><a hred="/ornekler/fotograflara-icerigini-indeksletme.md">Fotoğraf içeriğini yapay zekaya indeksletme (Profesyonel)</a></li>
-      <li>Gerçekçi fotoğraflar oluşturma</li>
+      <li><a href="/ornekler/fotograflara-filtre-uygulama.md">Fotoğraflara filtre uygulama</a></li>
+      <li><a href="/ornekler/fotograflara-icerigini-indeksletme.md">Fotoğraf içeriğini yapay zekaya indeksletme (Profesyonel)</a></li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
+      <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
       <li>Infinite loop video oluşturma</li>
       <li>Video oluşturma</li>
