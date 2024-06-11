@@ -24,7 +24,7 @@ Dall-e ile ilüstrasyon için Türkçe olarak bu promptu girdik 'illustration a 
 
 # Adobe firefly ile ilüststrayon oluşturma
 
-Adobe firely'da Türkçe olarak girdiğimiz aşağıdaki promptumuzla ilüstrasyonumuzu kolaylıkla oluşturabildik.
+Adobe Firely'da Türkçe olarak girdiğimiz aşağıdaki promptumuzla ilüstrasyonumuzu kolaylıkla oluşturabildik.
 
 `bisiklet süren bir tilki ilüstrasyonu`
 
