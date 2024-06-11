@@ -34,9 +34,11 @@ Sonuç;
 
 ![alt text](../gorseller/subliminal-sonuc-2.png)
 
-Control weight ayarını arttırarak desenin daha net oluştuğu görseller oluşturabilirsiniz.
+Control weight ayarını arttırarak desenin daha net oluştuğu görseller oluşturabilirsiniz. 
 
+(1.4)
 
+![alt text](../gorseller/subliminal-spnuc-3.png)
 
 
 
