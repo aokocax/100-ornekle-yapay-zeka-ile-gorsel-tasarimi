@@ -19,7 +19,7 @@ Sonuçlarımız;
 
 `a caricature , a fox and a bear speaks each other with the two talking bubbles `
 
-![alt text](/gorseller/kariaktur-hazirlama-3.png)
+![alt text](/gorseller/karikatur-hazirlama-3.png)
 
 # Dall-e
 
