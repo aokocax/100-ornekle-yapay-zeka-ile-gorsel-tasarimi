@@ -12,7 +12,7 @@ Görselimiz saniyeler içinde "SVG" formatına dönüştürülüyor. Sağdaki ay
 
 ![alt text](/gorseller/vektore-donusturme-2.png)
 
-Vektöre dönüştürülmüş görselimizi ![buradan indirebilirsiniz](../gorseller/vektore-donusturme-sonuc-1.svg).
+Vektöre dönüştürülmüş görselimizi [buradan indirebilirsiniz](../gorseller/vektore-donusturme-sonuc-1.svg).
 
 
 ![alt text](../gorseller/vektore-donusturme-sonuc-1.svg)
