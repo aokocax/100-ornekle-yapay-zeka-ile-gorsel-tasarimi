@@ -2,7 +2,7 @@
 
 # İlüstrasyon oluşturma
 
-Tasarım alanında en çok kullanılan görsel tiplerinden biri de hiç şüphesiz ilüstrasyonlardır. Sunumlardan, web sitelerine, gazete ve dergilerden davetiyelere kadar bir çok alanda ilüstrasyonlara ihtiyaç duymaktayız. Bu dersimizde yapay zeka ile ilüstrasyon oluşturmayı [bir sonraki dersimizde](illustrasyonu-vektore-donusturme.md) ise oluşturduğumuz ilüstrasyonları nasıl vektöre dönüştüreceğimizi göreceğiz.
+Tasarım alanında en çok kullanılan görsel tiplerinden biri de hiç şüphesiz ilüstrasyonlardır. Sunumlardan, web sitelerine, gazete ve dergilerden davetiyelere kadar bir çok alanda ilüstrasyonlara ihtiyaç duymaktayız. Bu dersimizde yapay zeka ile ilüstrasyon oluşturmayı [bir sonraki dersimizde](ilustrasyonu-vektore-donusturme.md) ise oluşturduğumuz ilüstrasyonları nasıl vektöre dönüştüreceğimizi göreceğiz.
 
 # Midjourney üzerinde ilüstrasyon oluşturma
 
