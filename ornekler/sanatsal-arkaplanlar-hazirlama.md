@@ -4,9 +4,9 @@
 
 Yapay zeka ile yapılabilecek en keyifli işlerden biri telefon ya da bilgisayarlar için arka planlar hazırlama bu dersimizde Stable Diffusion (A1111) ve Civit.ai aracılığıyla özel arkaplanlar hazırlayacağız. Kullandığımız promptları kendi isteklerinize göre değiştirip siz de farklı tasarımlar oluşturabilirsiniz.
 
-İlk görselimiz ile başlıyoruz.
+İlk görselimiz ile başlıyoru (büyük hali için üzerine tıklayınız)
 
-<img srd="/gorseller/sanatsal-arka-plan-1.png" width="400">
+<img src="/gorseller/sanatsal-arka-plan-1.png" width="400">
 
 
 Model: [albedobaseXL_v21](https://civitai.com/models/140737/albedobase-xl)
