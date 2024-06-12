@@ -92,6 +92,7 @@ Dizin
       <li><a href="/ornekler/ilustrasyonu-vektore-donusturme.md">İlüstrasyonları vektöre dönüştürme</a></li>
       <li><a href="/ornekler/fotograflara-filtre-uygulama.md">Fotoğraflara filtre uygulama</a></li>
       <li><a href="/ornekler/fotograf-icerigini-indeksletme.md">Fotoğraf içeriğini yapay zekaya indeksletme (Profesyonel)</a></li>
+      <li><a href="/ornekler/sanatsal-arkaplanlar-hazirlama.md">Sanatsal arka planlar hazırlama</a></li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
