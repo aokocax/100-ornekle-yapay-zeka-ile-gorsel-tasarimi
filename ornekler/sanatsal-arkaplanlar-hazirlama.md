@@ -2,9 +2,9 @@
 
 # Sanatsal arka planlar hazırlama (Ücretsiz)
 
-Yapay zeka ile yapılabilecek en keyifli işlerden biri telefon ya da bilgisayarlar için arka planlar hazırlama bu dersimizde Stable Diffusion (A1111) ve Civit.ai aracılığıyla özel arkaplanlar hazırlayacağız. Kullandığımız promptları kendi isteklerinize göre değiştirip siz de farklı tasarımlar oluşturabilirsiniz.
+Yapay zeka ile yapılabilecek en keyifli işlerden biri telefon ya da bilgisayarlar için arka planlar hazırlama. Bu dersimizde Stable Diffusion (A1111) ve Civit.ai aracılığıyla özel arkaplanlar hazırlayacağız. Kullandığımız promptları kendi isteklerinize göre değiştirip siz de farklı tasarımlar oluşturabilirsiniz.
 
-İlk görselimiz ile başlıyoru (büyük hali için üzerine tıklayınız)
+İlk görselimiz ile başlıyoruz (büyük hali için üzerine tıklayınız)
 
 <img src="/gorseller/sanatsal-arka-plan-1.png" width="400">
 
@@ -24,7 +24,7 @@ Negatif promptlarımız;
 
 <hr>
 
-2. görselimiz
+# 2. görselimiz
 
 <img src="../gorseller/sanatsal-arka-plan-2.png" width="400">
 
@@ -41,7 +41,7 @@ Negatif promptlarımız;
 
 `blurry, low quality, worst quality, normal quality,`
 <hr>
-
+# 
 3. görselimiz
 
 <img src="../gorseller/sanatsal-arka-plan-3.png" width="400">
@@ -61,7 +61,7 @@ Negatif promptlarımız;
 
 <hr>
 
-4. görselimiz
+# 4. görselimiz
 
 <img src="/gorseller/sanatsal-arka-plan-4.png" width="400">
 
@@ -80,7 +80,7 @@ Negatif promptlarımız;
 
 <hr>
 
-5. görselimiz
+# 5. görselimiz
 
 <img src="/gorseller/sanatsal-arka-plan-5.png" width="400">
 
