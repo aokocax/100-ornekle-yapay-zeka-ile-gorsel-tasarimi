@@ -26,7 +26,7 @@ Negatif promptlarımız;
 
 2. görselimiz
 
-<img srd="/gorseller/sanatsal-arka-plan-2.png" width="400">
+<img srd="../gorseller/sanatsal-arka-plan-2.png" width="400">
 
 Model: [cardos](https://civitai.com/models/155140/cardos-xl)
 
@@ -44,7 +44,7 @@ Negatif promptlarımız;
 
 3. görselimiz
 
-<img srd="/gorseller/sanatsal-arka-plan-3.png" width="400">
+<img srd="../gorseller/sanatsal-arka-plan-3.png" width="400">
 
 Model: [cardos](https://civitai.com/models/155140/cardos-xl)
 
