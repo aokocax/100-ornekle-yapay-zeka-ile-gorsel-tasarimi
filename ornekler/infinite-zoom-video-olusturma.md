@@ -42,7 +42,10 @@ Negatif promptlarımız;
 ![alt text](/gorseller/infinite-zoom-3.png)
 
 Sonucumuz;
-
+[../gorseller/infinite-zoom-sonuc-1.mp4](https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/raw/main/gorseller/infinite-zoom-sonuc-1.mp4)
+<video src="[../gorseller/infinite-zoom-sonuc-1.mp4](https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/raw/main/gorseller/infinite-zoom-sonuc-1.mp4)" width="300" />
 ![indir](../gorseller/infinite-zoom-sonuc-1.mp4)
+
+<video src="https://github.com/aokocax/100-ornekle-yapay-zeka-ile-gorsel-tasarimi/raw/main/gorseller/infinite-zoom-sonuc-1.mp4"></video>
 
 
