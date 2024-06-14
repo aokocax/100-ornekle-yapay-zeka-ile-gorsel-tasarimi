@@ -43,6 +43,6 @@ Negatif promptlarımız;
 
 Sonucumuz;
 
-![video](../gorseller/infinite-zoom-sonuc-1.mp4)
+<video  src='../gorseller/infinite-zoom-sonuc-1.mp4' width=400></video>
 
 
