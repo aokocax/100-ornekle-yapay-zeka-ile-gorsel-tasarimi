@@ -21,19 +21,19 @@ Siz promptta özellik nitelik ifade eden '3D, water drops and paints, yellow, bl
 
 Sonuç;
 
-[text](efektli-yazilar-yazma.md)
+![alt text](../gorseller/efektli-yazi-sonuc-1.png)
 
 
 Başka promptlar ve elde ettğimiz sonuçlar;
 
 `3d tiny "Sanat.ai" hand writing chrome text written on a blue harley davidson body`
 
-`"Sanat.ai" text written in 3D in a crystal box, transparent color, on a marble table, shiny and reflections`
-
-`"Sanat.ai" text written by ice and some snow on the letters, inside a wonderful glass ball, snowflakes, trees, a botanical garden, reflections on the glass ball, like a game studio work`
-
 ![alt text](../gorseller/efektli-yazi-sonuc-2.png)
 
+`"Sanat.ai" text written in 3D in a crystal box, transparent color, on a marble table, shiny and reflections`
+
 ![alt text](../gorseller/efektli-yazi-sonuc-3.png)
+
+`"Sanat.ai" text written by ice and some snow on the letters, inside a wonderful glass ball, snowflakes, trees, a botanical garden, reflections on the glass ball, like a game studio work`
 
 ![alt text](../gorseller/efekli-yazi-sonuc-4.png)
