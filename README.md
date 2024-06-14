@@ -93,13 +93,13 @@ Dizin
       <li><a href="/ornekler/fotograflara-filtre-uygulama.md">Fotoğraflara filtre uygulama</a></li>
       <li><a href="/ornekler/fotograf-icerigini-indeksletme.md">Fotoğraf içeriğini yapay zekaya indeksletme (Profesyonel)</a></li>
       <li><a href="/ornekler/sanatsal-arkaplanlar-hazirlama.md">Sanatsal arka planlar hazırlama</a></li>
+      <li><a href="/ornekler/efektli-yazilar-yazma.md">Metin efektleri ile yazı yama</a></li>
       <li>Fotoğraftaki insanların pozlarını belirleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
       <li>Infinite loop video oluşturma</li>
       <li>Video oluşturma</li>
       <li>Eski çizimleri fotoğraflaştırma</li>
-      <li>Sanat stilleri ile eser oluşturma (pointilism, impasto v.s.)</li>
       <li>Çizim kitabı oluşturma</li>
       <li>Subliminal fotoğraf oluşturma</li>
       <li>QR kodları ile fotoğraf oluşturma</li>
@@ -109,13 +109,8 @@ Dizin
       <li>Lora oluşturma</li>
       <li>Lora kullanarak harika görseller oluşturma</li>
       <li>Midjourney ile subliminal fotoğraf oluşturma</li>
-      <li>Fotoğraflara filtre uygulama</li>
-      <li>Fotoğraf içeriğini yapay zekaya indeksletme (profesyonel)</li>
       <li>Fotoğraf üzerindeki nesnelerin renklerini değiştirme</li>
-      <li>Elbise/kıyafet değiştirme</li>
       <li>Kadrajı genişletme</li>
-      <li>Fotoğrafa yeni objeler ekleme</li>
-      <li>Efektli yazılar yazma</li>
       <li>Fotoğraftaki alanlara desen uygulama</li>
       <li>Kombinasyonla görsel oluşturma</li>
       <li>Fotoğraflar arası geçiş bölümü oluşturma </li>
