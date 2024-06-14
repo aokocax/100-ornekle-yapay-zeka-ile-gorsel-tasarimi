@@ -95,21 +95,18 @@ Dizin
       <li><a href="/ornekler/sanatsal-arkaplanlar-hazirlama.md">Sanatsal arka planlar hazırlama</a></li>
       <li><a href="/ornekler/efektli-yazilar-yazma.md">Metin efektleri ile yazı yama</a></li>
       <li><a href="/ornekler/fotograftaki-insanlarin-pozlarini-belirleme.md">Fotoğraftaki insanların pozlarını belirleme</li>
-      <li>Gerçekçi fotoğraflar oluşturma</li>
-      <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
+      <li><a href="/ornekler/depth-ile-derinlik-haritasi-kullanarak-fotograf-olusturma.md">Depth ile 3D derinlik haritası kullanarak fotoğraf tasarımı</li>
       <li>Infinite loop video oluşturma</li>
-      <li>Video oluşturma</li>
-      <li>Eski çizimleri fotoğraflaştırma</li>
-      <li>Çizim kitabı oluşturma</li>
-      <li>Subliminal fotoğraf oluşturma</li>
-      <li>QR kodları ile fotoğraf oluşturma</li>
+      <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Sad talk ile fotoğrafları konuşturma</li>
       <li>Kurgu karakter tasarımı</li>
       <li>Logoları tekrar yorumlama</li>
-      <li>Lora oluşturma</li>
-      <li>Lora kullanarak harika görseller oluşturma</li>
+      <li>Video oluşturma (Stable Video Diffusion)</li>
       <li>Midjourney ile subliminal fotoğraf oluşturma</li>
       <li>Fotoğraf üzerindeki nesnelerin renklerini değiştirme</li>
+      <li>Lora oluşturma</li>
+      <li>Lora kullanarak harika görseller oluşturma</li>
+
       <li>Kadrajı genişletme</li>
       <li>Fotoğraftaki alanlara desen uygulama</li>
       <li>Kombinasyonla görsel oluşturma</li>

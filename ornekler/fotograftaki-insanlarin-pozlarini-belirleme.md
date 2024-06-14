@@ -33,6 +33,7 @@ Promptumuz; (Realistic Vision 6 (SD 1.5 versiyonu) kullandık ) https://huggingf
 `RAW photo a man drinking tea on a bench`
 
 Sonuç;
+
 ![alt text](../gorseller/open-pose-sonuc-1.png)
 
 Şimdi sadece iskelet üzerinden görsel oluşturalım. 
@@ -44,6 +45,7 @@ Yeni promptumuz;
 `RAW photo a man drinking tea on a bench`
 
 Sonuç;
+
 ![alt text](/gorseller/open-pose-sonuc-2.png)
 
 
