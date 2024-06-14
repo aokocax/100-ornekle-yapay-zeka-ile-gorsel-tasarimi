@@ -94,7 +94,7 @@ Dizin
       <li><a href="/ornekler/fotograf-icerigini-indeksletme.md">Fotoğraf içeriğini yapay zekaya indeksletme (Profesyonel)</a></li>
       <li><a href="/ornekler/sanatsal-arkaplanlar-hazirlama.md">Sanatsal arka planlar hazırlama</a></li>
       <li><a href="/ornekler/efektli-yazilar-yazma.md">Metin efektleri ile yazı yama</a></li>
-      <li>Fotoğraftaki insanların pozlarını belirleme</li>
+      <li><a href="/ornekler/fotograftaki-insanlarin-pozlarini-belirleme.md">Fotoğraftaki insanların pozlarını belirleme</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Depth ile 3D derinlikten fotoğraf tasarımı</li>
       <li>Infinite loop video oluşturma</li>

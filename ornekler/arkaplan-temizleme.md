@@ -1,5 +1,7 @@
 <a href="/">< Dizine dön</a> | <a href="/ornekler">< Örneklere dön</a>
 
+# Görselin Arka Planını Temizleme
+
 Bu örneğimizde yapay zeka ile herhangi bir görselin arkaplanını ücretsiz olarak temizlemeyi göreceğiz. 
 
 Örneğimizde ComfyUI kullandık, ilk olarak ComfyUI uygulamızı açarak Manager'ı açıyoruz ve "Install Custom Node" diyerek arama kısmına "essentials" yazıyoruz.
