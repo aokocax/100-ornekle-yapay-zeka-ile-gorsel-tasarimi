@@ -98,7 +98,6 @@ Dizin
       <li><a href="/ornekler/depth-ile-derinlik-haritasi-kullanarak-fotograf-olusturma.md">Depth ile 3D derinlik haritası kullanarak fotoğraf tasarımı</li>
       <li><a href="/ornekler/infinite-zoom-video-olusturma.md">Infinite zoom (sonsuz yakınlaştırma) videosu oluşturma</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
-      <li>Sad talk ile fotoğrafları konuşturma</li>
       <li>Kurgu karakter tasarımı</li>
       <li>Logoları tekrar yorumlama</li>
       <li>Video oluşturma (Stable Video Diffusion)</li>

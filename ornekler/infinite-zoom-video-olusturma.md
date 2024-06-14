@@ -4,7 +4,7 @@
 
 Sosyal medyada sıkça gördüğümüz sonsuz yakınlaştırma videolarını yapay zekayla da hazırlayabileceğinizi biliyor muydunuz? Bu örneğimizde Stable Diffusion yardımıyla sonsuz yakınlaştırma videosu yapacağız.
 
-İlk olarak Extension bölümüne ve ardından Avaliable sekmesine giriyoruz ve "Load from" düğmesine basarak eklentilerimizi listeyliyoruz. Daha sonra arama alanına infinite yazarek görseldeki eklentiyi "Install" diyerek kuruyoruz. En son olarak tekrar Installed alt sekmesine geçerek "Apply and RestartUI" düğmesi ile A1111'i tekrar başlatıyoruz.
+İlk olarak Extensions sekmesine  ve ardından Available alt sekmesine giriyoruz ve "Load from" düğmesine basarak eklentilerimizi listeyliyoruz. Daha sonra arama alanına "infinite" yazarak görseldeki eklentiyi "Install" diyerek kuruyoruz. En son olarak tekrar Installed alt sekmesine geçerek "Apply and RestartUI" düğmesi ile A1111'i tekrar başlatıyoruz.
 
 ![alt text](/gorseller/infinite-zoom-1.png)
 
