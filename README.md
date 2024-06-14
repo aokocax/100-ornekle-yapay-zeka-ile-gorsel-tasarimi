@@ -98,7 +98,7 @@ Dizin
       <li><a href="/ornekler/depth-ile-derinlik-haritasi-kullanarak-fotograf-olusturma.md">Depth ile 3D derinlik haritası kullanarak fotoğraf tasarımı</li>
       <li><a href="/ornekler/infinite-zoom-video-olusturma.md">Infinite zoom (sonsuz yakınlaştırma) videosu oluşturma</a></li>
       <li><a href="/ornekler/makro-fotograflar-olusturma.md">Makro fotoğrafçılık</a></li>
-      <li>Kombinasyonla görsel oluşturma</li>
+      <li><a href="/ornekler/kombinasyonla-gorsel-olusturma.md">Kombinasyonla görsel oluşturma</a></li>
         <li>Kadrajı genişletme</li>
       <li>Logoları tekrar yorumlama</li>
         <li>Moazik kalebodur tasarımı</li>
