@@ -106,7 +106,6 @@ Dizin
       <li>Fotoğraf üzerindeki nesnelerin renklerini değiştirme</li>
       <li>Lora oluşturma</li>
       <li>Lora kullanarak harika görseller oluşturma</li>
-
       <li>Kadrajı genişletme</li>
       <li>Fotoğraftaki alanlara desen uygulama</li>
       <li>Kombinasyonla görsel oluşturma</li>
