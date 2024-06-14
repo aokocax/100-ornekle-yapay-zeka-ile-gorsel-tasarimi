@@ -48,3 +48,26 @@ A1111'de de Midjourney örneğinde olduğu gibi arka plan rengimizi de değişti
 
 
 # ComfyUI 
+
+Öncelikle DynamicPrompts Custome Nodes'u yüklüyoruz.
+
+![alt text](/gorseller/kombinasyon-6.png)
+
+ComfyUI'yı tekrar başlattıktan sonra Combinational prompt node'unu ekliyoruz.
+
+![alt text](/gorseller/kombinasyon-7.png)
+
+Prompt olarak yeni node'umuza bunu girdikten sonra Clip Text Encoder'imizi İnput widget'a dönüştürüyor ve node'umuza bağlıyoruz.
+
+`A {red|green|blue} car`
+
+![alt text](/gorseller/kombinasyon-8.png)
+
+Workload'ımızı [buradan](../gorseller/workflow/combination.json) indirebilirsiniz.
+
+Son olarak kombinasyon adedimizce örneği kuyruğa ekliyoruz, her seferinde bir diğer kombinasyonla görsel üretilecektir.
+
+![alt text](/gorseller/kombinasyon-9.png)
+
+
+
