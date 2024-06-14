@@ -96,33 +96,35 @@ Dizin
       <li><a href="/ornekler/efektli-yazilar-yazma.md">Metin efektleri ile yazı yama</a></li>
       <li><a href="/ornekler/fotograftaki-insanlarin-pozlarini-belirleme.md">Fotoğraftaki insanların pozlarını belirleme</li>
       <li><a href="/ornekler/depth-ile-derinlik-haritasi-kullanarak-fotograf-olusturma.md">Depth ile 3D derinlik haritası kullanarak fotoğraf tasarımı</li>
-      <li><a href="/ornekler/infinite-zoom-video-olusturma.md">Infinite zoom (sonsuz yakınlaştırma) videosu oluşturma</li>
-      <li>Gerçekçi fotoğraflar oluşturma</li>
-      <li>Kurgu karakter tasarımı</li>
+      <li><a href="/ornekler/infinite-zoom-video-olusturma.md">Infinite zoom (sonsuz yakınlaştırma) videosu oluşturma</a></li>
+      <li><a href="/ornekler/makro-fotograflar-olusturma.md">Makro fotoğrafçılık</a></li>
+      <li>Kombinasyonla görsel oluşturma</li>
+        <li>Kadrajı genişletme</li>
       <li>Logoları tekrar yorumlama</li>
+        <li>Moazik kalebodur tasarımı</li>
+      <li>Gerçekçi fotoğraflar oluşturma</li>
+      <li>Doku/texture vererek görsel oluşturma</li>
+      <li>Kurgu karakter tasarımı</li>
+       <li>Promptlara ağırlık vererek görsel oluşturma</li>
       <li>Video oluşturma (Stable Video Diffusion)</li>
       <li>Midjourney ile subliminal fotoğraf oluşturma</li>
       <li>Fotoğraf üzerindeki nesnelerin renklerini değiştirme</li>
       <li>Lora oluşturma</li>
       <li>Lora kullanarak harika görseller oluşturma</li>
-      <li>Kadrajı genişletme</li>
       <li>Fotoğraftaki alanlara desen uygulama</li>
-      <li>Kombinasyonla görsel oluşturma</li>
       <li>Fotoğraflar arası geçiş bölümü oluşturma </li>
       <li>Desenelerle (dal, taş, nokta v.b.) görsel oluşturma (Desen fotoğrafçılığı)</li>
       <li>Yzaşlandırma/gençleştirme</li>
-      <li>Makro fotoğrafçılık</li>
+    
       <li>Karmaşık geometrik desen oluşturma</li>
       <li>Çizgi film görsellerini gerçeğe dönüştürün</li>
       <li>Poster tasarımı</li>
-      <li>Promptlara ağırlık vererek görsel oluşturma</li>
       <li>Grafiti ile metin yazımı</li>
       <li>Fotoğrafları retro fotoğrafa dönüştürme</li>
       <li>Eski fotoğraf düzeltme</li>
       <li>Origami, krigami görselleri oluşturma</li>
       <li>Ribbon, web assetleri oluşturma</li>
       <li>Tilt shift v.b fotoğraflama </li>
-      <li>Moazik kalebodur tasarımı</li>
       <li>Halı tasarımları yapma</li>
       <li>Duvar görselleri tasarlama</li>
       <li>Sticker tasarlama</li>
@@ -137,8 +139,6 @@ Dizin
       <li>Kupa, tshirt tasarımı yapma</li>
       <li>Haber görselleri tasarlama</li>
       <li>Yeni sanatsal stiller oluşturma</li>
-      <li>Tarihi görseller oluşturma</li>
-      <li>Tarihi görselleri konuşturma</li>
       <li>Video içindeki kişileri konuşturma</li>
       <li>Sergi oluşturma (Futbol takımları süper kahram olma gibi)</li>
       <li>Oyun assetleri hazırlama</li>
