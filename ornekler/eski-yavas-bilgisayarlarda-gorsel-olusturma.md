@@ -3,14 +3,14 @@
 # Eski ve yavaş bilgisayarlarda görsel oluşturma
 
 Kişisel bilgisayarınızda görsel oluşturmak için ya da başka bir ifadeyle Stable Diffusion'ı çalıştırmak için en az 4gb+ üstü tame sajip bir ekran kartına ihtiyaç duymaktasınız. 
-Gelgelelim böyle bir bilgisayarınız olsa bile tek bir görselin üretimi dahi onlarca saniye hatta dakikalar alabilmekte. Yine <strong>M1, M2 serisi Mac</strong> bir bilgisayarınız varsa da aynı şekilde görsel üretimi uzun sürebilmekte. Bu örneğimizde Stable Diffusion Turbo modeli ile bu tarz eski bir bilgisayarda nasıl görsel üretebileceğimizi göreceğiz.  ComfyUI kurulumu için kitabımzın başındaki kurulum kısmına bakabilirsiniz.
+Gelgelelim böyle bir bilgisayarınız olsa bile tek bir görselin üretimi dahi onlarca saniye hatta dakikalar alabilmekte. Yine <strong>M1, M2 serisi Mac</strong> bir bilgisayarınız varsa da aynı şekilde görsel üretimi uzun sürebilmekte. Bu örneğimizde Stable Diffusion Turbo modeli ile bu tarz eski bir bilgisayarda nasıl görsel üretebileceğimizi göreceğiz. ComfyUI kurulumu için kitabımzın başındaki kurulum kısmına bakabilirsiniz.
 
 İlk olarak SD Turbo modelini bu adresten indiriyoruz https://huggingface.co/stabilityai/sdxl-turbo/blob/main/sd_xl_turbo_1.0_fp16.safetensors
 Dosyayı models/checkpoints dizinine kopyalıyoruz.
 
-Şimdi workflowumuzu [buradan](gorseller/workflow/sanatai_sd_turbo.json) indirerek ComfyUI üzerien sürükleyip bırakıyor ya da "Load" düğmesiyle workflowumuzu seçiyoruz.
+Şimdi workflowumuzu [buradan](gorseller/workflow/sanatai_sd_turbo.json) indirerek ComfyUI üzerine sürükleyip bırakıyor ya da "Load" düğmesiyle workflowumuzu seçiyoruz.
 
-Eğer ekran kartınızın ram'i düşüsek ComfyUI'yı başlatırken  --lowvram parametresiyle başlatabilirsiniz.
+Eğer ekran kartınızın ram'i düşüskse ComfyUI'yı başlatırken  --lowvram parametresiyle başlatabilirsiniz.
 
 Şimdi workflowumuzu çalıştıralım. 10 fotoğrafı oluşturması yaklaşık 1sn aldı (Nvidia RTX 4070TI)
 
