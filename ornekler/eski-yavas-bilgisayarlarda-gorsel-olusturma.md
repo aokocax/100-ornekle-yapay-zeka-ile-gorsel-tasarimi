@@ -2,8 +2,8 @@
 
 # Eski ve yavaş bilgisayarlarda görsel oluşturma
 
-Kişisel bilgisayarınızda görsel oluşturmak için ya da başka bir ifadeyle Stable Diffusion'ı çalıştırmak için en az 4b+ üstü bir ekran kartına ihtyiaç duyulmakta. 
-gelgelelim böyle bir bilgisayarınız olsa bile tek bir görselin üretimi dahi onlarca saniye hatta dakikalar alabilmekte. Yine M1, M2 serisi Mac bir bilgisayarınız varsa da aynı şekilde görsel üretimi uzun sürebilmekte. Bu örneğimizde Stable Diffusion Turbo modeli ile bu tarz eski bir bilgisayarda nasıl görsel üretebileceğimizi göreceğiz.  ComfyUI kurulumu için kitabımzın başındaki kurulum kısmına bakabilirsiniz.
+Kişisel bilgisayarınızda görsel oluşturmak için ya da başka bir ifadeyle Stable Diffusion'ı çalıştırmak için en az 4gb+ üstü tame sajip bir ekran kartına ihtiyaç duymaktasınız. 
+Gelgelelim böyle bir bilgisayarınız olsa bile tek bir görselin üretimi dahi onlarca saniye hatta dakikalar alabilmekte. Yine <strong>M1, M2 serisi Mac</strong> bir bilgisayarınız varsa da aynı şekilde görsel üretimi uzun sürebilmekte. Bu örneğimizde Stable Diffusion Turbo modeli ile bu tarz eski bir bilgisayarda nasıl görsel üretebileceğimizi göreceğiz.  ComfyUI kurulumu için kitabımzın başındaki kurulum kısmına bakabilirsiniz.
 
 İlk olarak SD Turbo modelini bu adresten indiriyoruz https://huggingface.co/stabilityai/sdxl-turbo/blob/main/sd_xl_turbo_1.0_fp16.safetensors
 Dosyayı models/checkpoints dizinine kopyalıyoruz.
