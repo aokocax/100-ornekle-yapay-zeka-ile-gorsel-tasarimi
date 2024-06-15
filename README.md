@@ -99,9 +99,10 @@ Dizin
       <li><a href="/ornekler/infinite-zoom-video-olusturma.md">Infinite zoom (sonsuz yakınlaştırma) videosu oluşturma</a></li>
       <li><a href="/ornekler/makro-fotograflar-olusturma.md">Makro fotoğrafçılık</a></li>
       <li><a href="/ornekler/kombinasyonla-gorsel-olusturma.md">Kombinasyonla görsel oluşturma</a></li>
-        <li>Kadrajı genişletme</li>
+      <li><a href="/ornekler/eski-yavas-bilgisayarlarda-gorsel-olusturma.md">Eski ve yavaş bilgisayarlarda görsel oluşturma</a></li>
+      <li>Kadrajı genişletme</li>
       <li>Logoları tekrar yorumlama</li>
-        <li>Moazik kalebodur tasarımı</li>
+      <li>Moazik kalebodur tasarımı</li>
       <li>Gerçekçi fotoğraflar oluşturma</li>
       <li>Doku/texture vererek görsel oluşturma</li>
       <li>Kurgu karakter tasarımı</li>
@@ -115,7 +116,6 @@ Dizin
       <li>Fotoğraflar arası geçiş bölümü oluşturma </li>
       <li>Desenelerle (dal, taş, nokta v.b.) görsel oluşturma (Desen fotoğrafçılığı)</li>
       <li>Yzaşlandırma/gençleştirme</li>
-    
       <li>Karmaşık geometrik desen oluşturma</li>
       <li>Çizgi film görsellerini gerçeğe dönüştürün</li>
       <li>Poster tasarımı</li>
