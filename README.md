@@ -37,7 +37,7 @@ Dizin
         Hesap Oluşturma
           <ul>
             <li>
-              Midjourney
+              <a href="/hesap-olusturma/midjourney-hesap-acma.md">Midjourney</a>
             </li>
             <li>
               Leonardo.ai
